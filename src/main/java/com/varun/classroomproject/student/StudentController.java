@@ -1,4 +1,4 @@
-package com.varun.classroomproject.student;
+package com.varsha.classroomproject.student;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
